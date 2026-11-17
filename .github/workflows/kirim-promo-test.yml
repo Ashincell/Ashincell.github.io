@@ -1,1 +1,34 @@
-
+name: Ashin Cell - Tes Promo FCM
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: 'Judul notifikasi'
+        required: true
+        default: '🎁 Promo Ashin Cell'
+        type: string
+      message:
+        description: 'Isi notifikasi'
+        required: true
+        default: 'Cek paket internet terbaru di Ashin Cell!'
+        type: string
+permissions:
+  contents: read
+jobs:
+  send-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Firebase Admin SDK
+        run: npm install --no-save --no-audit --no-fund firebase-admin@13
+      - name: Send one test notification
+        env:
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          FCM_TEST_TOKEN: ${{ secrets.FCM_TEST_TOKEN }}
+          PROMO_TITLE: ${{ inputs.title }}
+          PROMO_BODY: ${{ inputs.message }}
+        run: node scripts/send-promo.cjs
