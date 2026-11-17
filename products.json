@@ -1,0 +1,329 @@
+[
+  {
+    "id": "akrab-1-88",
+    "name": "XL/AXIS Akrab 88 GB - Area 1",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 1. Pastikan area kartu sesuai.",
+    "price": 115900,
+    "emoji": "📶",
+    "active": true,
+    "area": 1
+  },
+  {
+    "id": "akrab-1-65",
+    "name": "XL/AXIS Akrab 65 GB - Area 1",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 1. Pastikan area kartu sesuai.",
+    "price": 105900,
+    "emoji": "📶",
+    "active": true,
+    "area": 1
+  },
+  {
+    "id": "akrab-1-63",
+    "name": "XL/AXIS Akrab 63 GB - Area 1",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 1. Pastikan area kartu sesuai.",
+    "price": 94900,
+    "emoji": "📶",
+    "active": true,
+    "area": 1
+  },
+  {
+    "id": "akrab-1-47",
+    "name": "XL/AXIS Akrab 47 GB - Area 1",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 1. Pastikan area kartu sesuai.",
+    "price": 84900,
+    "emoji": "📶",
+    "active": true,
+    "area": 1
+  },
+  {
+    "id": "akrab-1-38",
+    "name": "XL/AXIS Akrab 38 GB - Area 1",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 1. Pastikan area kartu sesuai.",
+    "price": 74900,
+    "emoji": "📶",
+    "active": true,
+    "area": 1
+  },
+  {
+    "id": "akrab-2-90",
+    "name": "XL/AXIS Akrab 90 GB - Area 2",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 2. Pastikan area kartu sesuai.",
+    "price": 115900,
+    "emoji": "📶",
+    "active": true,
+    "area": 2
+  },
+  {
+    "id": "akrab-2-70",
+    "name": "XL/AXIS Akrab 70 GB - Area 2",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 2. Pastikan area kartu sesuai.",
+    "price": 105900,
+    "emoji": "📶",
+    "active": true,
+    "area": 2
+  },
+  {
+    "id": "akrab-2-65",
+    "name": "XL/AXIS Akrab 65 GB - Area 2",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 2. Pastikan area kartu sesuai.",
+    "price": 94900,
+    "emoji": "📶",
+    "active": true,
+    "area": 2
+  },
+  {
+    "id": "akrab-2-50",
+    "name": "XL/AXIS Akrab 50 GB - Area 2",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 2. Pastikan area kartu sesuai.",
+    "price": 84900,
+    "emoji": "📶",
+    "active": true,
+    "area": 2
+  },
+  {
+    "id": "akrab-2-40",
+    "name": "XL/AXIS Akrab 40 GB - Area 2",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 2. Pastikan area kartu sesuai.",
+    "price": 74900,
+    "emoji": "📶",
+    "active": true,
+    "area": 2
+  },
+  {
+    "id": "akrab-3-95",
+    "name": "XL/AXIS Akrab 95 GB - Area 3",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 3. Pastikan area kartu sesuai.",
+    "price": 115900,
+    "emoji": "📶",
+    "active": true,
+    "area": 3
+  },
+  {
+    "id": "akrab-3-83",
+    "name": "XL/AXIS Akrab 83 GB - Area 3",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 3. Pastikan area kartu sesuai.",
+    "price": 105900,
+    "emoji": "📶",
+    "active": true,
+    "area": 3
+  },
+  {
+    "id": "akrab-3-70",
+    "name": "XL/AXIS Akrab 70 GB - Area 3",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 3. Pastikan area kartu sesuai.",
+    "price": 94900,
+    "emoji": "📶",
+    "active": true,
+    "area": 3
+  },
+  {
+    "id": "akrab-3-54",
+    "name": "XL/AXIS Akrab 54 GB - Area 3",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 3. Pastikan area kartu sesuai.",
+    "price": 84900,
+    "emoji": "📶",
+    "active": true,
+    "area": 3
+  },
+  {
+    "id": "akrab-3-45",
+    "name": "XL/AXIS Akrab 45 GB - Area 3",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 3. Pastikan area kartu sesuai.",
+    "price": 74900,
+    "emoji": "📶",
+    "active": true,
+    "area": 3
+  },
+  {
+    "id": "akrab-4-123",
+    "name": "XL/AXIS Akrab 123 GB - Area 4",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 4. Pastikan area kartu sesuai.",
+    "price": 119900,
+    "emoji": "📶",
+    "active": true,
+    "area": 4
+  },
+  {
+    "id": "akrab-4-103",
+    "name": "XL/AXIS Akrab 103 GB - Area 4",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 4. Pastikan area kartu sesuai.",
+    "price": 109900,
+    "emoji": "📶",
+    "active": true,
+    "area": 4
+  },
+  {
+    "id": "akrab-4-80",
+    "name": "XL/AXIS Akrab 80 GB - Area 4",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 4. Pastikan area kartu sesuai.",
+    "price": 94900,
+    "emoji": "📶",
+    "active": true,
+    "area": 4
+  },
+  {
+    "id": "akrab-4-64",
+    "name": "XL/AXIS Akrab 64 GB - Area 4",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 4. Pastikan area kartu sesuai.",
+    "price": 84900,
+    "emoji": "📶",
+    "active": true,
+    "area": 4
+  },
+  {
+    "id": "akrab-4-55",
+    "name": "XL/AXIS Akrab 55 GB - Area 4",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 4. Pastikan area kartu sesuai.",
+    "price": 74900,
+    "emoji": "📶",
+    "active": true,
+    "area": 4
+  },
+  {
+    "id": "akrab-4-30",
+    "name": "XL/AXIS Akrab 30 GB - Area 4",
+    "category": "Paket Akrab",
+    "description": "Full kuota utama • Area 4. Pastikan area kartu sesuai.",
+    "price": 59900,
+    "emoji": "📶",
+    "active": true,
+    "area": 4
+  },
+  {
+    "id": "harian-14-7",
+    "name": "XL Harian 14 GB / 7 Hari",
+    "category": "XL Harian",
+    "description": "2 GB/Hari • Kuota utama nasional",
+    "price": 19950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-10-5",
+    "name": "XL Harian 10 GB / 5 Hari",
+    "category": "XL Harian",
+    "description": "2 GB/Hari • Kuota utama nasional",
+    "price": 16950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-6-3",
+    "name": "XL Harian 6 GB / 3 Hari",
+    "category": "XL Harian",
+    "description": "2 GB/Hari • Kuota utama nasional",
+    "price": 10950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-2-1",
+    "name": "XL Harian 2 GB / 1 Hari",
+    "category": "XL Harian",
+    "description": "2 GB/Hari • Kuota utama nasional",
+    "price": 4500,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-10-5-7",
+    "name": "XL Harian 10.5 GB / 7 Hari",
+    "category": "XL Harian",
+    "description": "1,5 GB/Hari • Kuota utama nasional",
+    "price": 18950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-7-5-5",
+    "name": "XL Harian 7.5 GB / 5 Hari",
+    "category": "XL Harian",
+    "description": "1,5 GB/Hari • Kuota utama nasional",
+    "price": 14950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-4-5-3",
+    "name": "XL Harian 4.5 GB / 3 Hari",
+    "category": "XL Harian",
+    "description": "1,5 GB/Hari • Kuota utama nasional",
+    "price": 9950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-1-5-1",
+    "name": "XL Harian 1.5 GB / 1 Hari",
+    "category": "XL Harian",
+    "description": "1,5 GB/Hari • Kuota utama nasional",
+    "price": 3950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-2-2",
+    "name": "XL Harian 2 GB / 2 Hari",
+    "category": "XL Harian",
+    "description": "1 GB/Hari • Kuota utama nasional",
+    "price": 4950,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "harian-1-1",
+    "name": "XL Harian 1 GB / 1 Hari",
+    "category": "XL Harian",
+    "description": "1 GB/Hari • Kuota utama nasional",
+    "price": 3500,
+    "emoji": "⚡",
+    "active": true
+  },
+  {
+    "id": "masa-xl",
+    "name": "Masa Aktif XL 1 Bulan",
+    "category": "Masa Aktif",
+    "description": "Perpanjangan masa aktif kartu",
+    "price": 10000,
+    "emoji": "📅",
+    "active": true
+  },
+  {
+    "id": "masa-axis",
+    "name": "Masa Aktif AXIS 1 Bulan",
+    "category": "Masa Aktif",
+    "description": "Perpanjangan masa aktif kartu",
+    "price": 10000,
+    "emoji": "📅",
+    "active": true
+  },
+  {
+    "id": "masa-tri",
+    "name": "Masa Aktif Tri 1 Bulan",
+    "category": "Masa Aktif",
+    "description": "Perpanjangan masa aktif kartu",
+    "price": 10000,
+    "emoji": "📅",
+    "active": true
+  }
+]
